@@ -1,5 +1,4 @@
 # Splash Screen
-#
 ### File 1: main.dart
 This is the entry point of your Flutter application. It should define the MyApp widget, which sets up the application's theme and initial route.
 ```
