@@ -51,3 +51,23 @@ class _SplashScreenState extends State<SplashScreen> {
   }
 }
 ```
+### File 3: home_screen.dart
+This file contains the HomeScreen widget, which is the main content of your app displayed after the splash screen.
+```
+import 'package:flutter/material.dart';
+
+class HomeScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Home Screen'),
+      ),
+      body: Center(
+        child: Text('Welcome!', style: TextStyle(fontSize: 24)),
+      ),
+    );
+  }
+}
+```
+
