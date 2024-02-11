@@ -1,6 +1,6 @@
 # Splash Screen
-<img src="/Assets/Screenshot_1707670389.png" width="100" height="500" alt="Alt text" title="a title">
-<img src="/Assets/Screenshot_1707670395.png" width="100" height="500" alt="Alt text" title="a title">
+<img src="/Assets/Screenshot_1707670389.png" src="/Assets/Screenshot_1707670395.png" width="500" height="500" alt="Alt text" title="a title">
+<img src="/Assets/Screenshot_1707670395.png" width="500" height="500" alt="Alt text" title="a title">
 
 ### File 1: main.dart
 This is the entry point of your Flutter application. It should define the MyApp widget, which sets up the application's theme and initial route.
