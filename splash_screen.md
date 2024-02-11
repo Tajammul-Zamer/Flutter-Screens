@@ -70,5 +70,6 @@ class HomeScreen extends StatelessWidget {
   }
 }
 ```
-  ``![image text](Assets/Screenshot_1707670389.png)``
+<img title="a title" alt="Alt text" src="/Assets/Screenshot_1707670389.png">
+  ``![image text](/Assets/Screenshot_1707670389.png)``
 
